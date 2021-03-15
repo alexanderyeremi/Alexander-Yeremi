@@ -13,11 +13,11 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'Alexander Yeremi'; 
-const instagram = 'https://instagram.com/alexanderyeremi.yt'; 
-const telegram = 'https://t.me/alexander yeremi'; 
+const BotName = 'REUZ BOT☄'; 
+const instagram = 'https://instagram.com/reuz.id'; 
+const telegram = 'https://t.me/reuzzz'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/alexander yeremi';
+const youtube = 'https://www.youtube.com/c/reuz_id';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
