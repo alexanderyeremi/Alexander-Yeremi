@@ -51,7 +51,7 @@ ket : ✅ : aktif
 
 
 ## THANKS TO
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* [`termux-whatsapp-bot`](https://github.com/alexanderyeremi/Alexander-Yeremi)
 
 ## DONASI
-* Gopay : 081271699856 Reuz
+* Gopay : 081281783202 Alex
